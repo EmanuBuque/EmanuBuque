@@ -50,14 +50,14 @@ Gosto de usar esses projetos para colocar em prática o que estou estudando e ta
 ---
 
 <div align="center">
-  <h3>✦ PokéStation</h3>
 
-  <img src="https://raw.githubusercontent.com/EmanuBuque/Pokestation/main/assets/pokedex.gif" width="500" alt="Pokédex">
+  <img src="https://raw.githubusercontent.com/EmanuBuque/Pokestation/main/assets/pokeball-animation.gif" width="50" alt="Pokédex">
 
-  <p>
-    Um mini projeto web inspirado em uma Pokédex, feito para praticar
-    <b>JavaScript</b>, manipulação do <b>DOM</b> e consumo de <b>API</b>.
-  </p>
+### ✦ PokéStation
+
+Um mini projeto web inspirado em uma Pokédex, criado para praticar JavaScript e transformar o que estou aprendendo em algo interativo.
+Pesquise Pokémon, descubra suas informações, salve seus favoritos, colete e colecione, e monte uma equipe de até 6 Pokémon. ✦
+
 
   <p>
     <b>Tecnologias:</b>
