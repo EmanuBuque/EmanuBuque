@@ -1,6 +1,9 @@
-<div align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee5e44bb-2f7d-4638-b70a-fae270409d99/dahtqvu-0796a52b-a02e-4650-8d4f-af064042c0aa.jpg/v1/fill/w_1024,h_384,q_75,strp/galactic_twitter_header_by_smallgalaxies_dahtqvu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg0IiwicGF0aCI6Ii9mL2VlNWU0NGJiLTJmN2QtNDYzOC1iNzBhLWZhZTI3MDQwOWQ5OS9kYWh0cXZ1LTA3OTZhNTJiLWEwMmUtNDY1MC04ZDRmLWFmMDY0MDQyYzBhYS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ZTTccLSIsjKZEeL5JNdz1_97xCxWyQRx8O2h4G0ON4M" width="100%" alt="Manu's Dev World">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/f5/a9/9c/f5a99c4acc382be3a36ca5100935b1fa.gif" width="100" alt="Cute decoration">
+
 
   <h1>𝑴𝒂𝒏𝒖'𝒔 𝑫𝒆𝒗 𝑾𝒐𝒓𝒍𝒅</h1>
+
 
   <p>💻 <b>Estudante de ADS | Aprendendo Desenvolvimento de Software</b></p>
 </div>
@@ -79,15 +82,13 @@ APIs • DOM • Git & GitHub
      ↓
 React
      ↓
-Análise de Dados
+Terminar estudos Front-End
      ↓
-IA & Desenvolvimento de Software
+....
 ```
-
-> ✦ Um projeto de cada vez, aprendendo enquanto faço. ♡
 
 ---
 
 <div align="center">
-  <sub>Feito por Manu • ainda aprendendo, experimentando e criando ✦</sub>
+  <sub>૮ ˶ᵔ ᵕ ᵔ˶ ა aprendendo, errando, corrigindo e tentando de novo.</sub>
 </div>
