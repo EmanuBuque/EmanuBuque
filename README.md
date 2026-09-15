@@ -9,24 +9,22 @@
 </div>
 
 ---
+<h3 align="center">✦ Sobre Mim </h3>
 
-### ┆ Sobre Mim
+Oi! Meu nome é Manu e estudo **Análise e Desenvolvimento de Sistemas** e programação. ;)
 
-Oi! meu nome é Manu e estou estudando **Análise e Desenvolvimento de Sistemas** e programação. ;)
-
-Atualmente, estou focada principalmente em **desenvolvimento web**, aprendendo na prática através de projetos e exercícios.
+Atualmente, meu foco é **desenvolvimento web**, aprendendo através de projetos e exercícios.
 
 * .ᐟ.ᐟ **Estudo:** Análise e Desenvolvimento de Sistemas (ADS).
-* .ᐟ.ᐟ **Foco atual:** HTML, CSS, JavaScript e, aos poucos, React.
+* .ᐟ.ᐟ **Foco atual:** HTML, CSS, JavaScript e React.
 * .ᐟ.ᐟ **Interesses:** Desenvolvimento de Software, Web, Dados e Inteligência Artificial.
-* .ᐟ.ᐟ **Como aprendo:** gosto de transformar o que estudo em pequenos projetos para testar ideias e entender melhor como as coisas funcionam.
-* .ᐟ.ᐟ **Objetivo:** continuar evoluindo na programação e, futuramente, trabalhar com desenvolvimento de software e áreas relacionadas a dados e IA.
+* .ᐟ.ᐟ **Como aprendo:** transformo o que estudo em pequenos projetos para testar ideias e entender melhor como as coisas funcionam.
+* .ᐟ.ᐟ **Objetivo:** evoluir na programação e futuramente trabalhar com desenvolvimento de software e áreas de dados e IA.
 
-Ainda tenho bastante coisa para aprender, mas estou gostando de acompanhar minha própria evolução através dos projetos que vou criando. ✦
 
 ---
+<h3 align="center">✦ Tecnologias e Ferramentas</h3>
 
-### ┆ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -41,19 +39,23 @@ Ainda tenho bastante coisa para aprender, mas estou gostando de acompanhar minha
 
 ---
 
-### ♡ Meus Projetos
+<h3 align="center">♡ Meus Projetos</h3> 
+<div align="center">
 
 Alguns projetos que fiz enquanto estudo programação. Alguns começaram como exercícios, outros surgiram de ideias que tive enquanto aprendia.
 
 Gosto de usar esses projetos para colocar em prática o que estou estudando e também para experimentar coisas novas.
 
----
+
+▼
+
+</div>
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/EmanuBuque/Pokestation/main/assets/pokeball-animation.gif" width="50" alt="Pokédex">
-
 ### ✦ PokéStation
+
+<img src="https://raw.githubusercontent.com/EmanuBuque/Pokestation/main/assets/pokeball-animation.gif" width="50" alt="Pokédex">
 
 Um mini projeto web inspirado em uma Pokédex, criado para praticar JavaScript e transformar o que estou aprendendo em algo interativo.
 Pesquise Pokémon, descubra suas informações, salve seus favoritos, colete e colecione, e monte uma equipe de até 6 Pokémon. ✦
@@ -67,7 +69,8 @@ Pesquise Pokémon, descubra suas informações, salve seus favoritos, colete e c
   <a href="https://github.com/EmanuBuque/Pokestation" target="_blank">
     <img src="https://img.shields.io/badge/💻_Ver_Repositório-1e293b?style=for-the-badge" alt="Ver Repositório">
   </a>
-</div>
+  </div>
+
 
 ---
 
