@@ -1,97 +1,53 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f5/a9/9c/f5a99c4acc382be3a36ca5100935b1fa.gif" width="100" alt="Cute decoration">
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Web+Development+%7C+Student+Developer;" alt="Typing SVG"/>
+
+<img src="https://media.tenor.com/EHWpgeV10F8AAAAj/dark-sonic-gif.gif" min-width="400px" max-width="400px" width="100px" align="right">
+
+<p align="left">
+
+Currently deepening my studies in **React**, **Node.js**, **JavaScript/TypeScript**, while building personal projects to strengthen my skills through practice.
+
+I have experience with **web development** and am continuously expanding my knowledge in **back-end development** and **databases**, with a focus on building practical and well-structured applications.
+
+</p>
+
+## Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge\&logo=javascript\&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge\&logo=typescript\&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge\&logo=react\&logoColor=c9a84c)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge\&logo=nodedotjs\&logoColor=c9a84c)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge\&logo=postgresql\&logoColor=c9a84c)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge\&logo=html5\&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge\&logo=css3\&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge\&logo=git\&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge\&logo=github\&logoColor=c9a84c)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge\&logo=visualstudiocode\&logoColor=c9a84c)
+
+<h3>𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h3>
+
+🎓 Student Developer
+🇧🇷 Brazil
+💻 Web Development
+
+Currently focused on **building, learning and improving** through practical projects.
 
 
-  <h1>𝑴𝒂𝒏𝒖'𝒔 𝑫𝒆𝒗 𝑾𝒐𝒓𝒍𝒅</h1>
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠
 
+React & modern front-end development
+Node.js & back-end development
+SQL & databases
+Personal & study projects
 
-  <p>💻 <b>Estudante de ADS | Aprendendo Desenvolvimento de Software</b></p>
-</div>
+## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+Startup Tycoon Simulator
 
----
-<h3 align="center">✦ Sobre Mim </h3>
+A management simulation built with React, Node.js and JavaScript, where you take control of your own company.
 
-Oi! Meu nome é Manu e estudo **Análise e Desenvolvimento de Sistemas** e programação. ;)
+Manage employees, analyze company data, hire new staff, expand your business and invest in upgrades to improve your company's growth and performance.
 
-Atualmente, meu foco é **desenvolvimento web**, aprendendo através de projetos e exercícios.
+<a href="https://github.com/EmanuBuque/Startup-Tycoon-Simulator"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="View Repository"> </a>
 
-* .ᐟ.ᐟ **Estudo:** Análise e Desenvolvimento de Sistemas (ADS).
-* .ᐟ.ᐟ **Foco atual:** HTML, CSS, JavaScript e React.
-* .ᐟ.ᐟ **Interesses:** Desenvolvimento de Software, Web, Dados e Inteligência Artificial.
-* .ᐟ.ᐟ **Como aprendo:** transformo o que estudo em pequenos projetos para testar ideias e entender melhor como as coisas funcionam.
-* .ᐟ.ᐟ **Objetivo:** evoluir na programação e futuramente trabalhar com desenvolvimento de software e áreas de dados e IA.
+### 𝐃𝐞𝐯 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
 
-
----
-<h3 align="center">✦ Tecnologias e Ferramentas</h3>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-</div>
-
-
----
-
-<h3 align="center">♡ Meus Projetos</h3> 
-<div align="center">
-
-Alguns projetos que fiz enquanto estudo programação. Alguns começaram como exercícios, outros surgiram de ideias que tive enquanto aprendia.
-
-Gosto de usar esses projetos para colocar em prática o que estou estudando e também para experimentar coisas novas.
-
-
-▼
-
-</div>
-
-<div align="center">
-
-### ✦ PokéStation
-
-<img src="https://raw.githubusercontent.com/EmanuBuque/Pokestation/main/assets/pokeball-animation.gif" width="50" alt="Pokédex">
-
-Um mini projeto web inspirado em uma Pokédex, criado para praticar JavaScript e transformar o que estou aprendendo em algo interativo.
-Pesquise Pokémon, descubra suas informações, salve seus favoritos, colete e colecione, e monte uma equipe de até 6 Pokémon. ✦
-
-
-  <p>
-    <b>Tecnologias:</b>
-    <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code>
-  </p>
-
-  <a href="https://github.com/EmanuBuque/Pokestation" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Ver_Repositório-1e293b?style=for-the-badge" alt="Ver Repositório">
-  </a>
-  </div>
-
-
----
-
-### 📚 O que estou estudando
-
-```text
-HTML + CSS
-     ↓
-JavaScript
-     ↓
-APIs • DOM • Git & GitHub
-     ↓
-React
-     ↓
-Terminar estudos Front-End
-     ↓
-....
-```
-
----
-
-<div align="center">
-  <sub>૮ ˶ᵔ ᵕ ᵔ˶ ა aprendendo, errando, corrigindo e tentando de novo.</sub>
-</div>
+> `learn the fundamentals. build real things. keep improving.`
