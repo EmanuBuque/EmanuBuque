@@ -40,13 +40,17 @@ SQL & databases
 Personal & study projects
 
 ## 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-Startup Tycoon Simulator
 
-A management simulation built with React, Node.js and JavaScript, where you take control of your own company.
+PokéStation
 
-Manage employees, analyze company data, hire new staff, expand your business and invest in upgrades to improve your company's growth and performance.
+A Pokémon collection and team-building experience built with HTML, CSS and JavaScript, powered by the PokéAPI.
 
-<a href="https://github.com/EmanuBuque/Startup-Tycoon-Simulator"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="View Repository"> </a>
+Search for Pokémon, explore their data, build your own collection, create teams, manage favorites and save your progress directly in the browser using local storage.
+
+The project is currently being rebuilt with a more advanced stack using React, TypeScript and Node.js, as part of my progression into modern web development.
+
+<a href="https://github.com/EmanuBuque/Pokestation"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111?style=for-the-badge&logo=github&logoColor=c9a84c" alt="View Repository"> </a>
+
 
 ### 𝐃𝐞𝐯 𝐌𝐢𝐧𝐝𝐬𝐞𝐭
 
